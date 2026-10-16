@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>ROYCE Fitness Studio</title>
+	<link rel="stylesheet" href="css/style-first-3-workouts.css">
+    <link rel="icon" type="image/png" href="logo-mark.png">
+</head>
+
+<body>
+
+    <header>
+        <div class="navigation">
+            <section class="navigation-left">
+                <a href="index.html" class="logo"></a>
+                <ul class="menu">
+                    <li class="menu-close">
+                        <span class="menu-close1"></span>
+                        <span class="menu-close2"></span>
+                    </li>
+                    <li><a href="classes.html" class="menu-link">Classes</a></li>
+                    <li><a href="membership.html" class="menu-link" id="current-page">Membership</a></li>
+                    <li><a href="coaches.html" class="menu-link">Coaches</a></li>
+                    <li><a href="blog.html" class="menu-link">Blog</a></li>
+                </ul>
+                <div class="hamburger">
+                    <span class="bar1"></span>
+                    <span class="bar2"></span>
+                    <span class="bar3"></span>
+                </div>
+            </section>
+        </div>
+	</header>
+
+    <div class="container" id="form-container">
+        <form id="form" action="https://formspree.io/f/xnpjlnwd"
+            method="POST">
+            <h3 id="h3">I'M NEW HERE</h3>
+            <input type="text" name="first name" placeholder="First Name" class="input-first" required>
+            <input type="text" name="last name" placeholder="Last Name" class="input-last">
+            <input type="email" name="email" placeholder="Email" class="input-email" required>
+            <input type="tel" name="phone" placeholder="Phone" class="input-last">
+            <button type="submit" class="button">TRY 3 CLASSES FOR FREE!</button>
+        </form>
+    </div>
+
+    <div class="container" id="confirmation">
+        <h3>YOUR FREE CLASS IS JUST A CLICK AWAY!</h3>
+        <p>You’ve made a great decision today — welcome to Royce! 
+        Your free class is more than just a workout. It’s your first step to unlocking more energy, more strength and a longer, more vibrant life. Please check your email for a welcome message, with a link to download our app. With the Royce app, you can schedule first 3 worksouts at Royce Studio at no charge.</p>
+    </div>
+
+    <div class="video">
+        <video controls autoplay>
+            <source source src="video.mp4" type="video/mp4">
+        </video>
+    </div>
+
+
+    <footer>
+        <section class="footer-left">
+            <a href="index.html"><h4>ROYCE Fitness Studio</h4></a>
+            <p>9361 Korg Ave NW  Bldg B Ste G</p>
+            <p>Atlanta, GA 30307</p>
+            <a href="tel:678-452-9376">678-452-9376</a>
+            <br>
+            <br>
+            <a href="mailto:general@roycefitnessfit">general@roycefitness.fit</a>
+        </section>
+        <section class="footer-right">
+            <div class="social-media-icons">
+                <a href="https://www.instagram.com" target="blank"><img src="img/Icon_Instagram.svg"></img></a>
+                <a href="https://www.facebook.com/" target="blank"><img src="img/Icon_Facebook.svg"></img></a>
+                <a href="https://x.com/?lang=en" target="blank"><img src="img/Icon_Twitter.svg"></img></a>
+            </div>
+            <p>©2018 Royce Fitness Studio</p>
+        </section>
+    </footer>
+
+	<script src="./js/first-3-workouts.js"></script>
+
+</body>
+
+</html>
