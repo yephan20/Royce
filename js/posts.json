@@ -1,0 +1,147 @@
+[
+  {
+    "photo": "img/Blog_Post_1.jpg",
+    "title": "RUSSIAN PANCAKES (BLINI) with Buckwheat flour",
+    "summary": "Traditional Russian blini (BLEE-nee) are made with a yeast-raised buckwheat flour batter that gives them a nutty flavor. Today, blini are prepared hundreds of ways—with white flour only, cornmeal, sweet, savory, you name it. And their accompaniments have gone beyond the traditional caviar and is now served with smoked salmon, minced onion, chopped eggs, sour cream, and a sip or two of vodka.",
+    "url": "blog_russian-pancake.html"
+  },
+  {
+    "photo": "img/Blog_Post_2.jpg",
+    "title": "Which seeds & grains are the Best?",
+    "summary": "Seeds and grains are some of the most versatile ingredients you can add to your diet. From oatmeal and quinoa to chia seeds and flaxseeds, these small but mighty foods provide a variety of nutrients that support a balanced diet. They can add texture to your meals, boost fiber intake, and provide essential vitamins, minerals, healthy fats, and plant-based protein.",
+    "url": "blog_seed-grain.html"
+  },
+  {
+    "photo": "img/Blog_Post_3.jpg",
+    "title": "eggs - The Golden standard of protein",
+    "summary": "Eggs have long been considered one of the best sources of high-quality protein, and for good reason. They are affordable, easy to prepare, and packed with essential nutrients that support overall health. Whether you enjoy them scrambled for breakfast, boiled as a snack, or baked into your favorite recipes, eggs are one of the most versatile foods you can keep in your kitchen.",
+    "url": "blog_egg-protein.html"
+  },
+  {
+    "photo": "img/Blog_Post_4.jpg",
+    "title": "CHARCOAL LEMONADE WITH CHIA",
+    "summary": "When life hands you lemons, make lemonade! Activated charcoal is made from everything from bone char to coconuts or olive pits. It’s processed at a very high temperature to “activate” it, changing its structure and giving it those amazing benefits. The best part is perhaps that it really doesn’t taste at all, and the powder is so fine that it blends in easily to most liquids.",
+    "url": "blog_charcoal-lemonade.html"
+  },
+  {
+    "photo": "img/Blog_Post_5.jpg",
+    "title": "WARM BUCKWHEAT & BEET SALAD",
+    "summary": "Cooked, toasted buckwheat has an earthy, slightly nutty flavor, topped with purple onion, walnut, fresh herbs and accompanied with balsamic vinegar. This dish is especially delightful in winter as it goes so well with the earthy senses of mushrooms and the aroma of parsley and thyme. Light in calories but high in protein, filling and naturally gluten-free too, so it is perfect continue your diet-related New Year’s resolutions.",
+    "url": "blog_buckwheat-salad.html"
+  },
+  {
+    "photo": "img/Blog_Post_6.jpg",
+    "title": "healthy holiday eating - 5 tips to savor the season",
+    "summary": "The holiday season is a time for gathering with family, celebrating traditions, and enjoying some of our favorite foods. From festive dinners and homemade cookies to seasonal drinks and holiday parties, there are plenty of delicious temptations around every corner. With so much to enjoy, it can be easy to lose track of your usual eating habits.",
+    "url": "blog_holiday-eating.html"
+  },
+  {
+    "photo": "img/Blog_Post_7.jpg",
+    "title": "PAN ROASTED SALMON WITH BROCCOLINI",
+    "summary": "One pan, and right ingredients is all it takes for dinner. You can use fillet, but I choose salmon steak because the bones and skin bring out more favor. The skin also contains more of the same protein and essential omega-3 fatty acids. So, discarding the skin is throwing away additional omega-3 fatty acids that your body cannot make.",
+    "url": "blog_salmon-broccolini.html"
+  },
+  {
+    "photo": "img/Blog_Post_8.jpg",
+    "title": "Meal Prep vs. Cooking Fresh",
+    "summary": "When it comes to eating healthy, how you prepare your meals can be just as important as what you eat. Some people prefer meal prepping on the weekend so they have nutritious meals ready for the week ahead, while others enjoy cooking fresh every day. Both approaches have their benefits, and the best choice depends on your schedule, lifestyle, and personal preferences.",
+    "url": "blog_meal-prep.html"
+  },
+    {
+    "photo": "img/Blog_Post_9.jpg",
+    "title": "LOADED OMELETTE, PACKED WITH PROTEIN",
+    "summary": "A loaded omelette is a delicious way to start your day with plenty of protein and flavorful ingredients. Eggs provide high-quality protein and essential nutrients, while vegetables add fiber, vitamins, and minerals. Add a little cheese and your favorite lean protein, and you've got a satisfying breakfast that can keep you going throughout the morning.",
+    "url": "blog_omelette-protein.html"
+  },
+  {
+    "photo": "img/Blog_Post_10.jpg",
+    "title": "5 Reasons To Leave Your Desk At Lunch?",
+    "summary": "When work gets busy, eating lunch at your desk can feel like the easiest option. You can answer emails, finish a project, and squeeze in a few bites without stepping away from your computer. But while it might seem productive, skipping a proper break can leave you feeling tired, distracted, and less motivated throughout the afternoon.",
+    "url": "blog_desk-lunch.html"
+  },
+  {
+    "photo": "img/Blog_Post_11.jpg",
+    "title": "How Much Alcohol Is Too Much?",
+    "summary": "Whether it's a glass of wine with dinner, a beer after work, or a cocktail at a social gathering, alcohol is part of many people's routines. But how much is too much? Understanding alcohol consumption can help you make informed decisions about your health and recognize when your drinking habits may be putting you at risk.",
+    "url": "blog_alcohol-much.html"
+  },
+  {
+    "photo": "img/Blog_Post_12.jpg",
+    "title": "TRIED & TESTED - BEST WINGS RECIPE",
+    "summary": "Few things are as satisfying as a plate of crispy chicken wings fresh out of the oven. Whether you're hosting a game-day party, planning a family gathering, or simply craving a delicious snack, homemade wings are always a crowd-pleaser. The secret to great wings is getting that golden, crispy skin while keeping the meat juicy and tender.",
+    "url": "blog_chicken-wing.html"
+  },
+  {
+    "photo": "img/Blog_Post_13.jpg",
+    "title": "The Mediterranean Diet – Why It’s the Best",
+    "summary": "The Mediterranean diet is widely recognized as one of the healthiest eating patterns in the world. Inspired by traditional foods and cooking habits in countries such as Greece, Italy, and Spain, this approach focuses on fresh ingredients, healthy fats, whole grains, and plenty of fruits and vegetables. Rather than following strict rules or eliminating entire food groups, it encourages balance, variety, and enjoying meals.",
+    "url": "blog_mediterranean-diet.html"
+  },
+  {
+    "photo": "img/Blog_Post_14.jpg",
+    "title": "UPGRADE YOUR TACO TUESDAY WITH THESE CHICKEN TACOS",
+    "summary": "Taco Tuesday just got a delicious upgrade! These juicy, flavorful chicken tacos are easy to prepare, loaded with fresh ingredients, and perfect for a quick weeknight dinner. Tender chicken seasoned with smoky spices is paired with crunchy cabbage, creamy avocado, and a zesty lime dressing for a combination that's fresh, satisfying, and full of flavor.",
+    "url": "blog_chicken-taco.html"
+  },
+  {
+    "photo": "img/Blog_Post_15.jpg",
+    "title": "POWER FRUITS, VEGETABLES & NUTS TO BOOST YOUR WORKOUT",
+    "summary": "Whether you're hitting the gym, going for a run, or squeezing in a quick home workout, the foods you eat can make a difference in how you feel and perform. Fruits, vegetables, and nuts provide important nutrients that help fuel physical activity, support muscle recovery, and keep your body functioning at its best. The key is choosing a variety of nutrient-rich foods and eating enough to match your activity level.",
+    "url": "blog_fruit-vegetable.html"
+  },
+  {
+    "photo": "img/Blog_Post_19.jpg",
+    "title": "PUMPKIN SPICE LATTE WITH PUMPKIN SPICE MARSHMALLOWS",
+    "summary": "Nothing says fall like a warm pumpkin spice latte! This homemade version combines rich coffee, creamy milk, pumpkin puree, and cozy autumn spices. Top it with fluffy pumpkin spice marshmallows for a sweet seasonal treat that’s perfect for chilly mornings or a relaxing afternoon.",
+    "url": "blog_pumpkin-spice-latte.html"
+  },
+    {
+    "photo": "img/Blog_Post_17.jpg",
+    "title": "GARLIC & BASIL PASTA WITH CLASSIC MARINARA",
+    "summary": "Few things are as comforting as a bowl of pasta tossed in a rich, homemade marinara sauce. This garlic and basil pasta combines sweet tomatoes, fragrant garlic, fresh basil, and a drizzle of olive oil for a simple Italian-inspired meal that's full of flavor. It's easy to prepare with everyday ingredients and makes a delicious option for busy weeknights.",
+    "url": "blog_pasta-marinara.html"
+  },
+  {
+    "photo": "img/Blog_Post_18.jpg",
+    "title": "3 MUST-HAVE FOR A HEALTHY STORE BOUGHT SNACK",
+    "summary": "Life gets busy, and sometimes there's simply no time to prepare snacks from scratch. Whether you're heading to work, running errands, or looking for something quick after a workout, store-bought snacks can be a convenient option. The trick is knowing what to look for when choosing something that's both satisfying and nutritious. Instead of focusing on trendy labels or claims like 'natural' and 'low-fat,' pay attention to the nutrition facts and ingredient list.",
+    "url": "blog_healthy-snack.html"
+  },
+  {
+    "photo": "img/Blog_Post_16.jpg",
+    "title": "PROTEIN AND NUTRITION DENSE BROWNIE",
+    "summary": "Who says brownies can't be both delicious and nutritious? These fudgy chocolate brownies are made with wholesome ingredients, including black beans, almond butter, cocoa powder, and protein-rich Greek yogurt. They deliver a rich chocolate flavor and a soft, moist texture while adding protein, fiber, and other nutrients to your favorite treat.",
+    "url": "blog_brownie-protein.html"
+  },
+  {
+    "photo": "img/Blog_Post_20.jpg",
+    "title": "RINSE RIGHT: WASHING FRUITS & VEGETABLES",
+    "summary": "Fresh fruits and vegetables are an essential part of a healthy diet, but before you take a bite, make sure they’re clean! Even produce with a peel can carry dirt, bacteria, and other unwanted residues. A few simple washing habits can help keep your food fresh, safe, and ready to enjoy.",
+    "url": "blog_wash-fruit-vegetable.html"
+  },
+  {
+    "photo": "img/Blog_Post_21.jpg",
+    "title": "MEAL PLANNING TO SAVE TIME & MONEY",
+    "summary": "Eating well doesn’t have to mean spending hours in the kitchen or stretching your grocery budget. With a little planning, you can make healthier choices, reduce food waste, and save money throughout the week. Meal planning helps take the guesswork out of what’s for dinner and makes busy days a whole lot easier.",
+    "url": "blog_meal-planning.html"
+  },
+  {
+    "photo": "img/Blog_Post_22.jpg",
+    "title": "ROASTED HASSELBACK CHICKEN BREAST",
+    "summary": "Looking for a chicken dinner that’s as impressive as it is delicious? Roasted Hasselback chicken breast features juicy, tender chicken sliced into pockets and filled with flavorful cheese, fresh spinach, and savory seasonings. Roasted until golden and bubbling, this easy recipe is perfect for a weeknight dinner or a special meal without the extra fuss.",
+    "url": "blog_hasselback-chicken.html"
+  },
+  {
+    "photo": "img/Blog_Post_23.jpg",
+    "title": "THE TRUTH ABOUT CARBS, FAT & WEIGHT LOSS",
+    "summary": "Carbs are bad. Fat makes you fat. Sound familiar? Nutrition advice can be confusing, especially when it comes to weight loss. The truth is that carbohydrates and fats both play important roles in a healthy diet. Rather than cutting out entire food groups, understanding what your body needs can help you make smarter food choices and build habits that last.",
+    "url": "blog_carb-fat-weight.html"
+  },
+  {
+    "photo": "img/Blog_Post_24.jpg",
+    "title": "SMART CHANGES TO MAKE IN THE NEW YEAR",
+    "summary": "A new year is the perfect opportunity to reset, refocus, and build healthier habits. But making a fresh start doesn’t mean you need to change everything overnight. Small, realistic adjustments to your daily routine can make a big difference in how you feel, move, and live. From improving your nutrition to making exercise a priority, the smartest changes are the ones you can stick with all year long.",
+    "url": "blog_change-new-year.html"
+  }
+]
+

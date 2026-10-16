@@ -1,0 +1,64 @@
+
+//animation on page load//
+
+const bannerImage1 = document.querySelector(".banner-image1");
+const bannerImage2 = document.querySelector(".banner-image2");
+
+document.addEventListener("DOMContentLoaded", () => {  
+  bannerImage1.classList.add("active");
+  bannerImage2.classList.add("active");
+});
+
+// Responsive Hamburger Menu//
+
+const hamburger = document.querySelector(".hamburger");
+const menu = document.querySelector(".menu");
+const menuClose = document.querySelector(".menu-close");
+
+// click anywhere on window to close
+
+window.addEventListener('mouseup', function () {
+  if (event.target != menu && event.target.parentNode != menu) {
+    menu.classList.remove("active");
+  }
+})
+
+hamburger.addEventListener("click", () => {
+  menu.classList.add("active");
+})
+
+menuClose.addEventListener("click", () => {
+  menu.classList.remove("active");
+})
+
+// email sign up//
+
+const form = document.getElementById("form");
+const formStatus = document.getElementById("form-status");
+
+form.addEventListener("submit", async function(event) {
+  event.preventDefault(); // Prevents the browser from redirecting
+  
+  const data = new FormData(event.target);
+  
+  try {
+    const response = await fetch(event.target.action, {
+      method: form.method,
+      body: data,
+      headers: {
+        'Accept': 'application/json'
+      }
+    });
+    
+    if (response.ok) {
+      formStatus.innerHTML = "Thank you for signing up to ROYCE emails!";
+      form.reset(); // Clears the form fields
+    } else {
+      formStatus.innerHTML = "Oops! There was a problem submitting your email.";
+    }
+  } catch (error) {
+    formStatus.innerHTML = "Oops! There was a connectivity problem.";
+  }
+});
+
+
