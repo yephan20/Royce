@@ -4,21 +4,44 @@ const hamburger = document.querySelector(".hamburger");
 const menu = document.querySelector(".menu");
 const menuClose = document.querySelector(".menu-close");
 
-// click anywhere on window to close
+// Disable scrolling
+function disableScroll() {
+  document.documentElement.style.overflow = "hidden";
+  document.body.style.overflow = "hidden";
+}
 
-window.addEventListener('mouseup', function () {
-  if (event.target != menu && event.target.parentNode != menu) {
-    menu.classList.remove("active");
-  }
-})
+// Enable scrolling
+function enableScroll() {
+  document.documentElement.style.overflow = "";
+  document.body.style.overflow = "";
+}
 
+// Open menu
 hamburger.addEventListener("click", () => {
   menu.classList.add("active");
-})
+  hamburger.style.opacity = "0";
+  disableScroll();
+});
 
+// Close menu
 menuClose.addEventListener("click", () => {
   menu.classList.remove("active");
-})
+  hamburger.style.opacity = "1";
+  enableScroll();
+});
+
+// Close when clicking outside the menu
+window.addEventListener("click", (event) => {
+  if (
+    menu.classList.contains("active") &&
+    !menu.contains(event.target) &&
+    !hamburger.contains(event.target)
+  ) {
+    menu.classList.remove("active");
+    hamburger.style.opacity = "1";
+    enableScroll();
+  }
+});
 
 // email sign up//
 
